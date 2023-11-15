@@ -5,6 +5,8 @@ You will be asked to select your IDP when you run this tool, the information bel
 
 Before proceeding you should have information from the customer, outlined in the playbook.
 
+You run the tool by running sso_config_tool.py, and then following the on screen instructions, also detailed below.
+
 ## Azure supplemental KBA
 https://aura.support.neo4j.com/hc/en-us/articles/20575468736147
 ## Azure ID Token
