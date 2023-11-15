@@ -5,6 +5,8 @@ You will be asked to select your IDP when you run this tool, the information bel
 
 Before proceeding you should have information from the customer, outlined in the playbook.
 
+##Azure supplemental KBA
+https://aura.support.neo4j.com/hc/en-us/articles/20575468736147
 ## Azure ID Token
 1. Select whether you want to include native authentication, this is username + password authentication,
 2. Select whether you want to include native authorization, this is for granting permissions to a user. All Azure AD implementations have an authorization server, but if customer still wants username and password auth enabled you will
