@@ -1,4 +1,4 @@
-# sso-config-generator
+# SSO Config Generator
 The purpose of this tool is to create SSO configs for a selected provider and token type combination for use with a Neo4j database
 
 You will be asked to select your IDP when you run this tool, the information below corresponds to a token type + IDP combination, please follow the one relevant to you
