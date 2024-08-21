@@ -122,4 +122,4 @@ match idp:
         azure_main_func(token_type, providers, sso_button_text)
     case "google":
         #passes sso button text to the google auth main func to generate the config
-        google_main_func(sso_button_text)
+        google_main_func(sso_button_text, providers)

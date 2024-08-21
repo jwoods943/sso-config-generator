@@ -10,7 +10,7 @@
 
 #function for customer to enter client_secret
 import re
-def main_func(sso_button_text):
+def main_func(sso_button_text, providers):
     print("test")
     #creates an empty list that will have lines of config appended
     config_list = []
